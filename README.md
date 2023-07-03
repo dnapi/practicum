@@ -15,7 +15,7 @@ For this moment I have completed 9 our 14 projects.
 | [7. Bank customer churn modeling](07_bank_customer_churn_modeling) | Building a machine learning model that predict customer churn using historical data on customer behavior.| *pandas*, *sklearn*, *numpy*, *matplotlib.pyplot*, *GridSearchCV* |
 | [8. New oil well location](08_oil_extraction_location) | Creating a model that analyzes data from three locations for the choising the region for new oil wells that will maximize profits while minimizing risk. Profits and risk were predicted using Bootstrap technique. Linear Regression was used as a model. | *pandas*, *sklearn*, *numpy*, *scipy.stats*, *seaborn*, *matplotlib.pyplot* |
 | [9. Gold recovery coefficient](09_gold_recovery) | Developing ML model that predict the efficiency of gold extracted from raw matherial. Three models have been tested: LinearRegression, DecisionTreeRegressor, RandomForestRegressor. Hyperparameters search where performed with cross-validation using  GridSearchCV. | *pandas*, *sklearn*, *numpy*, *seaborn*, *matplotlib.pyplot* , *GridSearchCV*|
-| [10. Customers' personal data encryption](10_customer_data_encryption) | To be done |  |
+| [10. Customers' personal data encryption](10_customer_data_encryption) | Data encrypting using multiplication of features by an invertible matrix. The method has been proved to be correct analytically and demonstrated numerically. The quality of linear regression is not effected by ensciption. | *pandas*, *sklearn*, *numpy* |
 | [11. Car prices prediction](11_car_prices_boosting) | To be done |  |
 | [12. Number of taxi orders forecast](12_time_series) | To be done |  |
 | [13. Sentiment analysis](13_nlp) | To be done |  |
