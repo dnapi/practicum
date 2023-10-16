@@ -18,7 +18,7 @@ For this moment I have completed 9 our 14 projects.
 | [10. Customers' personal data encryption](10_customer_data_encryption) | Data encrypting using multiplication of features by an invertible matrix. The method has been proved to be correct analytically and demonstrated numerically. The quality of linear regression is not effected by ensciption. | *pandas*, *sklearn*, *numpy* |
 | [11. Car prices prediction](11_car_prices_boosting) | Building a machine learning model for car prices prediction based on historical data. Preprocessing data, Encoding categorical features with OrdinalEncoder. Models: Gradient Boosting (CatBoost,LightGBM), Random Forest, Linear model, Desicion tree. GridSearchCV was used for optimal hyperparameters search. | *pandas*, *sklearn*, *numpy*, *seaborn*, *matplotlib*, *lightgbm* |
 | [12. Number of taxi orders forecast](12_time_series) | Time-series forecasting for taxi orders involved resampling data, analyzing trends and seasonality, and incorporating new features like calendar attributes, lag values, and rolling mean values. Models utilized include Linear Regression, Decision Tree, Random Forest. | *statsmodels.tsa.seasonal*, *pandas*, *sklearn*, *numpy*, *matplotlib* |
-| [13. Sentiment analysis](13_nlp) | To be done |  |
+| [13. Sentiment analysis](13_nlp) | Performed text tonality analysis with initial text preprocessing and lemmatization using Spacy. The classification task utilized two distinct models: CatBoost and Logistic Regression. Tokenization was performed using both BERT and TF-IDF.| *torch*, *transformers*, *nltk*, *tqdm*,  *re*, *nltk* |
 | [14. Analytics of airline customers' preferences](14_sql) | To be done |  |
 
 
